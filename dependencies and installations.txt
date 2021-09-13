@@ -5,4 +5,3 @@
 	*pdfkit
 	*matplotlib
 	To install, just use the syntax "pip3 install <module name>" eg. "pip3 install openpyxl" from the command line
-- The instructions to run the .py script are the same as those for the exe, contained in the instructions.txt file
