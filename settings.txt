@@ -1,0 +1,4 @@
+Essay File Path: C:\Users\my\Desktop\Excel Parser\Romeo And Juliet Chap 1 Page 1.txt
+
+
+Excel File Path: C:\Users\my\Desktop\Excel Parser\ENGLISH_wordlist_250x16.xlsx

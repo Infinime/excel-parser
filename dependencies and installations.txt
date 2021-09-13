@@ -1,0 +1,8 @@
+- You'll need a working Python 3.9 installation, which is available for sownload from python.org.
+- You'll need to download and install wkhtmltopdf from https://wkhtmltopdf.org/downloads.html
+- You'll need to use the python pip installer to install the following modules:
+	*openpyxl
+	*pdfkit
+	*matplotlib
+	To install, just use the syntax "pip3 install <module name>" eg. "pip3 install openpyxl" from the command line
+- The instructions to run the .py script are the same as those for the exe, contained in the instructions.txt file

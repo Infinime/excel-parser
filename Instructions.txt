@@ -1,0 +1,14 @@
+Excel Parser, to check the frequency of words' appearance in a document or string, check it against a predetermined word ferequency list,
+then return a pdf with the words in bold, and a graph of the word frequency.
+- Keep the settings.txt file in the same folder as the excelparser.exe.
+- Open the settings file and put in the absolute path of the document. The example, 
+"C:\Users\my\Desktop\Excel Parser\Romeo And Juliet Chap 1 Page 1.txt" is already there, so replace 
+that with that of the essay you want to use
+- Also edit the absolute path of the Excel file, same as above.
+- Follow the on-screen prompts. It generates a bar chart at each runtime, and saves it to the same directory as
+the code.
+- The pdf is generated only if you ask it to, and if you put in a value greater than 16 for the word difficulty
+level, it just takes everything in category 17 and makes that bold.
+- For the movie line script, it works in the same way, except that you direct the Essay File Path to the movie,
+instead of a sample essay.
+- Thank you for your business, I'm grateful for the chance and I hope you have a nice day :D
